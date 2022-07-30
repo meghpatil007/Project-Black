@@ -1,2 +1,2 @@
-this is secret project.
+this is not a secret project anymore.
 
